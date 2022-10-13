@@ -1,3 +1,3 @@
 print('MSIB BATCH 3 ORBIT FEATURE ACADEMY !')
 print('Belajar AI di ORBIT')
-print('Ini Cabang-1')
+print('Ini Master')
